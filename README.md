@@ -66,7 +66,21 @@ The following business questions were answered:
 - Suppliers supplying products across the most categories.
 
 ---
+## SQL Analysis Results
 
+### Top 10 Customers by Revenue
+
+![Top 10 Customers](Screenshots/Top%2010%20Customers%20by%20revenue.png)
+
+### Revenue by Category
+![Revenue by Category](Screenshots/Revenue%20By%20Category.png)
+
+### Monthly Sales Trend
+![Monthly Sales Trend](Screenshots/Monthly%20sales.png)
+
+### Employee Perfomance
+![Employee Perfomance](Screenshots/Employee%20Perfomance.png)
+---
 ## Tools Used
 
 - MySQL
