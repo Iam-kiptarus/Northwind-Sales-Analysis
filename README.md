@@ -25,6 +25,18 @@ The project demonstrates the complete data analytics workflow:
 
 ---
 
+## Dataset
+
+The project includes the Northwind dataset as CSV files located in the `dataset` folder.
+
+These files can be imported directly into:
+
+- MySQL
+- Power BI
+- Excel
+
+---
+
 ## Database Tables
 
 The analysis is based on the following tables:
