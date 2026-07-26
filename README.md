@@ -1,6 +1,6 @@
 # Northwind-Sales-Analysis
 Business analysis of the Northwind database using MySQL and Power BI.
-# Northwind-Sales-Analysis
+
 ## Overview
 
 This project is an end-to-end sales analysis of the Northwind database using **MySQL** and **Power BI**.
